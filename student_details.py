@@ -1,3 +1,8 @@
+'''
+Autor:Anna Tony
+Date:01-10-2024
+version:1.0
+'''
 name=input("enter the student name : ")
 roll_number=int(input("enter your roll number : "))
 roll_number=roll_number+1
