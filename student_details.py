@@ -1,5 +1,5 @@
 '''
-Autor:Anna Tony
+Author:Anna Tony
 Date:01-10-2024
 version:1.0
 '''
