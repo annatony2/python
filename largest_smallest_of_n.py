@@ -1,3 +1,9 @@
+"""
+author: Anna Tony
+Version 1.1
+Date: 6/11/2024
+Python program to find the largest and smallest of n numbers
+"""
 count=int(input('How many numbers do you want to enter? : '))
 num=int(input('Insert the number : '))
 large=num
